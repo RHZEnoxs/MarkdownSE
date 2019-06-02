@@ -1,0 +1,12 @@
+.content{
+  margin: 10px;
+}
+
+.container {
+/*    text-align: center;*/
+    text-align:left;
+    min-width: 100%;
+    min-height: 100%;
+    border: 2px solid #000000;
+    -moz-border-radius: 8px;
+}
